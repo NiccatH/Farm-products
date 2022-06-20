@@ -1,0 +1,21 @@
+export const defaultTheme = {
+  fontColorBlack: "#333333",
+  colorWhite: "#ffffff",
+  backgroundColorGray: "#f7f7f7",
+  backgroundColorBlue: "#d8ecfe",
+  panelBackgroundColor: "#88aa4d",
+  panelBackgroundColorDanger: "#f75531",
+  itemBackgroundColor: "#e1edce",
+  itemBackgroundColorDanger: "#f8ddd7",
+  buttonColor: "#fc9b27",
+  buttonColorHoverActive: "#fc7427",
+  pagePadding: "90px",
+  indent: "20px",
+  fontFamily: '"Inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  lineHeightDefault: 1.5,
+  fontWeightDefault: 400,
+  pageWidth: "1280px",
+  headerHeight: "80px",
+  footerHeight: "80px"
+};
